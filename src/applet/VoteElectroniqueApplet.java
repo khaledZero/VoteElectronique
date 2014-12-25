@@ -45,6 +45,9 @@ public class VoteElectroniqueApplet extends Applet {
     public void process(APDU apdu) {
         //Insert your code here
         
+        
+        
+        
         //test commit
     }
 }
