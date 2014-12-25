@@ -1,0 +1,10 @@
+<applet-app xmlns="http://java.sun.com/xml/ns/javacard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.0" xsi:schemaLocation="http://java.sun.com/xml/ns/javacard http://java.sun.com/xml/ns/javacard/applet-app_3_0.xsd">
+    <applet>
+        <!-- The applet application deployment descriptor conveys APDU-based application
+        model elements and configuration information of an application between application
+        developers, application assemblers, and deployers. -->
+        <display-name>Vote Electronique Applet</display-name>
+        <applet-class>applet.VoteElectroniqueApplet</applet-class>
+        <applet-AID>//aid/93EC3DB91E/D1</applet-AID>
+    </applet>
+</applet-app>

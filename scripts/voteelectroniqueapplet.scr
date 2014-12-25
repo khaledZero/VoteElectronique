@@ -1,0 +1,10 @@
+//Test script for Applet 'VoteElectroniqueApplet'
+
+powerup;
+// Select VoteElectroniqueApplet //aid/93EC3DB91E/D1
+0x00 0xA4 0x04 0x00 0X06 0X93 0XEC 0X3D 0XB9 0X1E 0XD2 0x7F;
+
+//Send the APDU here
+//0x80 0xCA 0x00 0x00 <length> <data> 0x7F;
+
+powerdown;
